@@ -4,6 +4,5 @@
 
 This is a demo project showcasing a memory card game I used to play as a kid (with real cards of course!). It is built in Angular 10, with Angular Material for the buttons, Angular Animations for the card flip effects and images from Unsplash API.
 
-The companion post for this app can be found on [this link](https://zoaibkhan.com/blog/how-to-create-a-card-memory-game-in-angular/).
-
+#NB This is work in progress
 Cheers :)
